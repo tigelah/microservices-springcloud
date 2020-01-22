@@ -15,3 +15,17 @@ w
 Gcore/src/main/java/br/com/rodrigo/core/repository/CourseRepository.java,4\b\4b26ffc99854d9a48cde7026a697f9cac51e827e
 <
 core/pom.xml,7\6\76401d80919958a0380f14132adf8b8fc9c3d6ea
+†
+Vmicroservices/src/main/java/br/com/rodrigo/microservices/MicroservicesApplication.java,d\6\d6a2438016ad733f48a7d50387ddbf40de79c5a2
+t
+Dgateway/src/main/java/br/com/rodrigo/gateway/GatewayApplication.java,c\4\c4303bd7e2629ff4e4770917e262675e653cbef3
+?
+gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
+z
+Jdiscovery/src/main/java/br/com/rodrigo/discovery/DiscoveryApplication.java,2\d\2d052989f860ed5391d28e9a450324e4019c80e6
+
+Odiscovery/src/test/java/br/com/rodrigo/discovery/DiscoveryApplicationTests.java,9\c\9ccb6ca2db562becca2c979bb5954e92764a44b1
+y
+Igateway/src/test/java/br/com/rodrigo/gateway/GatewayApplicationTests.java,1\4\14e9cab401ead3fa917715117f238966486fd521
+A
+discovery/pom.xml,a\c\ac3e1555725512e9cd39c39120cd768bda4aa7b4
